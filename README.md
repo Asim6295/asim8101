@@ -10,10 +10,6 @@
     body{
         background-color:lightblue;
     }
-    .div-1{
-        /* width: 120px; */
-
-    }
 </style>
 </head>
 <body>
