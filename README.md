@@ -32,10 +32,10 @@
          <img class=" w-100 rounded-circle " src="blue.jpg.jpg" alt="">
     </div>
      <div class="col-2 rounded">     
-         <img class=" w-100 rounded-circle " src="C:blue.jpg.jpg" alt="">
+         <img class=" w-100 rounded-circle " src="blue.jpg.jpg" alt="">
     </div>
      <div class="col-2 rounded">
-        <img class=" w-100 rounded-circle " src="C:blue.jpg.jpg" alt="">
+        <img class=" w-100 rounded-circle " src="blue.jpg.jpg" alt="">
     </div> <div class="col-2 rounded">
         <img class=" w-100 rounded-circle " src="blue.jpg.jpg" alt="">
     </div> <div class="col-2 rounded">
